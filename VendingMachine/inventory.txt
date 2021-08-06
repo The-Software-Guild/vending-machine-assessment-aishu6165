@@ -1,0 +1,4 @@
+id=0, itemName=Test, cost=7.83, noOfInventory=3
+id=1, itemName=Tes1, cost=4.17, noOfInventory=1
+id=2, itemName=Tes21, cost=40, noOfInventory=5
+id=3, itemName=Tes23, cost=45, noOfInventory=0
